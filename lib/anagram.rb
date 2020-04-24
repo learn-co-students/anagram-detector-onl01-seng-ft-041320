@@ -1,2 +1,4 @@
 # Your code goes here!
-class 
+class Anagram
+  
+end 
